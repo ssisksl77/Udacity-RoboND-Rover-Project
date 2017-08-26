@@ -1,5 +1,5 @@
 How to solve it<br />
-honestly, I had no idea what to do. after, I'd watched a 'work through video' and followed it. and tried to understand it.
+honestly, I had no idea what to do. after, I'd watched a 'walkthrough video' and followed it. and tried to understand it.
 1. percetion
   - https://youtu.be/FWntWDRLS1Q
 
@@ -13,7 +13,7 @@ honestly, I had no idea what to do. after, I'd watched a 'work through video' an
 
 =========================================================<br />
 프로젝트 결과<br />
-완벽하게 이해할 수 없어서. work through를 참고함
+완벽하게 이해할 수 없어서. walkthrough를 참고한 후, 복습을 거듭함.
 1. 인지
   - https://youtu.be/FWntWDRLS1Q
 2. 갈 수 있는 곳을 찾아내서 맵에 넣는다.
