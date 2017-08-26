@@ -1,8 +1,7 @@
-How to solve it
+How to solve it<br />
 honestly, I had no idea what to do. after, I'd watched a 'work through video' and followed it. and tried to understand it.
 1. percetion
   - https://youtu.be/FWntWDRLS1Q
-
 
 2. update world map
   - https://youtu.be/2p9-3ME3D0A
@@ -12,9 +11,8 @@ honestly, I had no idea what to do. after, I'd watched a 'work through video' an
   - define find_rocks function (followed video. I've updated RGB values but followed values are the best)
   - https://youtu.be/kIOk25ieSV0
 
-
-=========================================================
-프로젝트 결과
+=========================================================<br />
+프로젝트 결과<br />
 완벽하게 이해할 수 없어서. work through를 참고함
 1. 인지
   - https://youtu.be/FWntWDRLS1Q
