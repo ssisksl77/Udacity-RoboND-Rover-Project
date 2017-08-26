@@ -1,3 +1,32 @@
+How to solve it
+honestly, I had no idea what to do. after, I'd watched a 'work through video' and followed it. and tried to understand it.
+1. percetion
+  - https://youtu.be/FWntWDRLS1Q
+
+
+2. update world map
+  - https://youtu.be/2p9-3ME3D0A
+
+3. update angles, and find rocks
+  - Convert coords to polar coords to update navigable angles
+  - define find_rocks function (followed video. I've updated RGB values but followed values are the best)
+  - https://youtu.be/kIOk25ieSV0
+
+
+
+
+
+=========================================================
+프로젝트 결과
+
+
+
+
+
+
+
+=========================================================
+
 [//]: # (Image References)
 [image_0]: ./misc/rover_image.jpg
 [![Udacity - Robotics NanoDegree Program](https://s3-us-west-1.amazonaws.com/udacity-robotics/Extra+Images/RoboND_flag.png)](https://www.udacity.com/robotics)
