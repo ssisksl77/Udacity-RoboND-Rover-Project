@@ -13,12 +13,15 @@ honestly, I had no idea what to do. after, I'd watched a 'work through video' an
   - https://youtu.be/kIOk25ieSV0
 
 
-
-
-
 =========================================================
 프로젝트 결과
-
+완벽하게 이해할 수 없어서. work through를 참고함
+1. 인지
+  - https://youtu.be/FWntWDRLS1Q
+2. 갈 수 있는 곳을 찾아내서 맵에 넣는다.
+  - https://youtu.be/2p9-3ME3D0A
+3. 현재 위치에서 갈 수 있는 곳을 찾아내서 각도를 변경한다.
+  - https://youtu.be/kIOk25ieSV0
 
 
 
