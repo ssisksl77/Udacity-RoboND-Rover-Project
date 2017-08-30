@@ -1,16 +1,28 @@
 How to solve it<br />
-honestly, I had no idea what to do. after, I'd watched a 'walkthrough video' and followed it. and tried to understand it.
-1. percetion
-  - https://youtu.be/FWntWDRLS1Q
+1. Perspective Transformation
+  - change perspect from Rover view to world Map view
+  - use codes from previous lecture
+2. Color Thresh
+  - Convert RGB to binary (black and white)
 
-2. update world map
+3. get obstable map
+  - use threshed map
+  - (SIMPLIFY)if value is upper 0.5 then 1 else 0
+
+4. update world map
   - https://youtu.be/2p9-3ME3D0A
 
-3. update angles, and find rocks
-  - Convert coords to polar coords to update navigable angles
-  - define find_rocks function (followed video. I've updated RGB values but followed values are the best)
-  - https://youtu.be/kIOk25ieSV0
-
+5. update angles
+  - get polar_coords
+  - find navigable angles (-15, 15)
+  - update Rover angles
+  
+6. find rocks
+  - find yello rock (upper red 100, upper green 100, below blue 50)
+  - convert TRUE, FALSE map to 1,0 map ( use astype(int))
+  - find index (average rock_dist)
+  - https://youtu.be/uvo6FijyWkk
+  
 =========================================================<br />
 프로젝트 결과<br />
 완벽하게 이해할 수 없어서. walkthrough를 참고한 후, 복습을 거듭함.
@@ -20,11 +32,8 @@ honestly, I had no idea what to do. after, I'd watched a 'walkthrough video' and
   - https://youtu.be/2p9-3ME3D0A
 3. 현재 위치에서 갈 수 있는 곳을 찾아내서 각도를 변경한다.
   - https://youtu.be/kIOk25ieSV0
-
-
-
-
-
+4. 코드를 수저하고 다시 올림
+  - https://youtu.be/uvo6FijyWkk
 
 =========================================================
 
